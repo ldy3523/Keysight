@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DeclineInvitation" Type="Microsoft.Office.Core.RibbonControlSize" Scope="User">
+      <Value Profile="(Default)">RibbonControlSizeRegular</Value>
+    </Setting>
+    <Setting Name="er" Type="Microsoft.Office.Core.RibbonControlSize" Scope="User">
+      <Value Profile="(Default)">RibbonControlSizeRegular</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
